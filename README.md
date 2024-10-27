@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open-source Projects and Development exercises
 - 📫 How to reach me l1f24bscs0294@ucp.edu.pk
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: No Fun Facts Here!!!!!
+- ⚡ Fun fact: Taking CS50x course from Harvard University
 
 <!---
 ali5php2/ali5php2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
