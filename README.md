@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ali5php2
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C,C++,Html,Css,Php,Go,and Phython  
+- 🌱 I’m currently learning C,C++,Html,Css,Php,Go,and Python  
 - 💞️ I’m looking to collaborate on Open-source Projects and Development exercises
 - 📫 How to reach me l1f24bscs0294@ucp.edu.pk
 - 😄 Pronouns: He/Him
