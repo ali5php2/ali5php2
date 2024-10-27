@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ali5php2
+- 👋 Hi, I’m @ali5php2, My name is Ali Muhammad
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning C,C++,Html,Css,Php,Go,and Python  
 - 💞️ I’m looking to collaborate on Open-source Projects and Development exercises
